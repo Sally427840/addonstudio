@@ -1,1 +1,1 @@
-minepixel studio
+minevixel studio
